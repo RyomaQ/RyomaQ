@@ -1,5 +1,5 @@
 <h1>Bonjour 👋</h1>
-<p>Je m'appelle Ryoma Quenot, j'ai 22 ans et j'habite en région parisienne. Durant les 3 dernières années j'ai étudié le design ce qui m'a permi d'obtenir mon bachelor en création & design. Cette année j'ai decidé de me réorienter pour apprendre la programmation informatique. Mon but à la fin de mon master est de devenir développeur fullstack et mobile.</p>
+<p>Je m'appelle Ryoma Quenot, j'ai 23 ans et j'habite en région parisienne. Durant les 3 dernières années j'ai étudié le design ce qui m'a permi d'obtenir mon bachelor en création & design. Cette année j'ai decidé de me réorienter pour apprendre la programmation informatique. Mon but à la fin de mon master est de devenir développeur fullstack et mobile.</p>
 
 <h1>:white_heart: Mes passions</h1>
 <ul>
@@ -11,7 +11,7 @@
 
 <h1>:pencil2: En ce moment</h1> 
 <li>J'essai d'apprendre REACT et Node JS</li>
-<li>Je créer mon futur portfolio</li>
+<li>Je cherche une alternance pour mon master</li>
 
 <h1>:bulb: Mes créations</h1>
-Mon portfolio actuel : https://ryoma-quenot.myportfolio.com/
+Mon portfolio actuel : https://ryomaquenot.com
